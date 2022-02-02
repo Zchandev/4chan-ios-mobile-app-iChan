@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "550999815852",
+    "firebase_url": "https://ichan-fe544.firebaseio.com",
+    "project_id": "ichan-fe544",
+    "storage_bucket": "ichan-fe544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550999815852:android:14ee5cc09f6eb07b5e9109",
+        "android_client_info": {
+          "package_name": "com.zchandev.iChan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550999815852-0hnnr7lkb1nf8f6gi2ni98l26aff4vs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKj0e1xGTCzA-jY13bI5F-sqRWGdNHsmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550999815852-0hnnr7lkb1nf8f6gi2ni98l26aff4vs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550999815852-7dcbpcjk7fqtdagp4o7pt77v8fq9us72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zchandev.iChan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

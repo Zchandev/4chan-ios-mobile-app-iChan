@@ -1,0 +1,82 @@
+{
+  "errors": {
+    "unavailable": "Serwer niedostępny",
+    "post_timeout": "Odpowiedź nieotrzymana"
+  },
+  "date": {
+    "day": {
+      "zero": "{} dni",
+      "one": "{} dzień",
+      "few": "{} dni",
+      "many": "{} dni",
+      "other": "{} dni"
+    },
+    "hour": {
+      "zero": "{} godzin",
+      "one": "{} godzina",
+      "few": "{} godzin",
+      "many": "{} godzin",
+      "other": "{} godzin"
+    },
+    "minute": {
+      "zero": "{} minut",
+      "one": "{} minuta",
+      "few": "{} minut",
+      "many": "{} minut",
+      "other": "{} minut"
+    },
+    "compact_minute": {
+      "zero": "{}m",
+      "one": "{}m",
+      "few": "{}m",
+      "many": "{}m",
+      "other": "{}m"
+    },
+    "compact_hour": {
+      "zero": "{}h",
+      "one": "{}h",
+      "few": "{}h",
+      "many": "{}h",
+      "other": "{}h"
+    }
+  },
+  "thread": {
+    "zero": "{} wątków",
+    "one": "{} wątek",
+    "few": "{} wątków",
+    "many": "{} wątków",
+    "other": "{} wątków"
+  },
+  "post": {
+    "zero": "{} postów",
+    "one": "{} post",
+    "few": "{} postów",
+    "many": "{} postów",
+    "other": "{} postów"
+  },
+  "times": {
+    "zero": "{} razy",
+    "one": "{} raz",
+    "few": "{} razy",
+    "many": "{} razy",
+    "other": "{} razy"
+  },
+  "reply": {
+    "zero": "{} odpowiedzi",
+    "one": "{} odpowiedź",
+    "few": "{} odpowiedzi",
+    "many": "{} odpowiedzi",
+    "other": "{} odpowiedzi"
+  },
+  "stats": {
+    "threads_visited": "Przeczytane wątki:",
+    "threads_clicked": "Kliknięte wątki:",
+    "threads_created": "Stworzone wątki:",
+    "posts_created": "Wysłane posty:",
+    "sent_from": "Wysłane z"
+  },
+  "after": "później",
+  "ago": "temu",
+  "paranoia_mode": "WSZYSTKIE funkcje serwera Zchan zostaną wyłączone, w tym sprawdzanie aktualnej wersji aplikacji. Programista nie otrzyma raportów błędów ani statystyk użycia, powiadomienia o nowych odpowiedziach zostaną również wyłączone.",
+  "now": "teraz"
+}

@@ -1,0 +1,114 @@
+{
+  "errors": {
+    "unavailable": "Server unavailable",
+    "post_timeout": "No answer received"
+  },
+  "menus": {
+    "hints": {
+      "favorites_as_blocks": "Display favorites as big blocks instead of lines",
+      "activity_disabled": "Do not display activity in main menu",
+      "history_disabled": "Do not display history in Activity menu",
+      "replies_on_top": "Replies chain will be on top instead of center",
+      "disable_autoturn": "Do not auto turn screen in threads, but keep it for media",
+      "absolute_time": "Always display time in format like 01.12.2020 00:02:05 instead of '5 hours ago'",
+      "time_at_right": "Move time from bottom to top of the post's info",
+      "hide_my_posts": "Do not mark your posts as (Y)",
+      "fav_on_reply_disabled": "Do not add thread to favorites if you replied",
+      "back_to_thread_disabled": "Do not close replies chain in the thread after your reply",
+      "right_menu": "Show thread menu at the right",
+      "bottom_menu": "Show thread menu at the bottom",
+      "show_extension": "Show extensions for media files: .jpg, .png, .webm and so on"
+    }
+  },
+  "modals": {
+    "age_confirm": "Are you 18+ years old?"
+  },
+  "help": {
+    "tip": "Tip",
+    "replies": "Swipe down to close all replies.\n\nSwipe left or tap on empty space to close current reply.",
+    "post_form": "If you need to move markup buttons, just swipe them down or up.",
+    "thread": "Swipe right to open favorites.\n\nTap on thread title or menu bar to scroll to top.\n\nTap on post id to copy link or mark post"
+  },
+  "date": {
+    "day": {
+      "zero": "{} days",
+      "one": "{} day",
+      "few": "{} days",
+      "many": "{} days",
+      "other": "{} days"
+    },
+    "hour": {
+      "zero": "{} hour",
+      "one": "{} hour",
+      "few": "{} hours",
+      "many": "{} hours",
+      "other": "{} hours"
+    },
+    "minute": {
+      "zero": "{} minute",
+      "one": "{} minute",
+      "few": "{} minutes",
+      "many": "{} minutes",
+      "other": "{} minutes"
+    },
+    "compact_minute": {
+      "zero": "{}m",
+      "one": "{}m",
+      "few": "{}m",
+      "many": "{}m",
+      "other": "{}m"
+    },
+    "compact_hour": {
+      "zero": "{}h",
+      "one": "{}h",
+      "few": "{}h",
+      "many": "{}h",
+      "other": "{}h"
+    }
+  },
+  "thread": {
+    "zero": "{} thread",
+    "one": "{} thread",
+    "few": "{} threads",
+    "many": "{} threads",
+    "other": "{} threads"
+  },
+  "post": {
+    "zero": "{} post",
+    "one": "{} post",
+    "few": "{} posts",
+    "many": "{} posts",
+    "other": "{} posts"
+  },
+  "times": {
+    "zero": "{} time",
+    "one": "{} time",
+    "few": "{} times",
+    "many": "{} times",
+    "other": "{} times"
+  },
+  "reply": {
+    "zero": "{} reply",
+    "one": "{} reply",
+    "few": "{} replies",
+    "many": "{} replies",
+    "other": "{} replies"
+  },
+  "stats": {
+    "threads_visited": "Threads read:",
+    "threads_clicked": "Threads visited:",
+    "threads_created": "Threads created:",
+    "posts_created": "Posts sent:",
+    "replies_received": "Replies received:",
+    "media_views": "Media views:",
+    "favs_refreshed": "Favorites refreshed:",
+    "hours_spent": "Total hours:",
+    "sent_from": "Sent from"
+  },
+  "after": "after",
+  "ago": "ago",
+  "yes": "Yes",
+  "no": "No",
+  "paranoia_mode": "ALL server features will be disabled, including new version check. Developer won't receive any crash reports and usage stats, and server push notifications on replies will be disabled.",
+  "now": "now"
+}
