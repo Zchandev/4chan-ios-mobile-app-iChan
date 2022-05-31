@@ -29,7 +29,7 @@ Features:
 2. Altstore
 
 - Download Altstore https://altstore.io and install it in your iPhone or iPad
-- Download this app in ipa file: https://zchan.app/download/ios/iChan.ipa
+- Compile this project and get .ipa file
 - Open Altstore app and select the ipa to install
 
 ### Install Zchan on Android
