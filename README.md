@@ -51,7 +51,6 @@ Features:
 
 If you have a question, want to report a bug or post a suggestion, feel free to join our groups:
 
-- Discord [en]: https://discord.gg/kNcUTJj
 - Telegram [en]: https://t.me/ichan_app
 
 # Support this project
