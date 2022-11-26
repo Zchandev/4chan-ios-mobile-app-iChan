@@ -40,7 +40,6 @@ app.*.symbols
 app.*.map.json
 
 ios/Flutter/.last_build_id
-
 tmp
 
 # Exceptions to above rules.
