@@ -18,7 +18,7 @@ Features:
 
 ![Screen1](https://zchan.app/assets/screen5.png)
 
-![Screen2](https://zchan.app/assets/screen4.png)
+![Screen2](https://zchan.app/assets/screen4.png?q=1)
 
 ### Install iChan on iOS
 
