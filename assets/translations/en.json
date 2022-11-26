@@ -12,7 +12,7 @@
       "disable_autoturn": "Do not auto turn screen in threads, but keep it for media",
       "absolute_time": "Always display time in format like 01.12.2020 00:02:05 instead of '5 hours ago'",
       "time_at_right": "Move time from bottom to top of the post's info",
-      "hide_my_posts": "Do not mark your posts as (Y)",
+      "hide_my_posts": "Do not mark your posts as (you)",
       "fav_on_reply_disabled": "Do not add thread to favorites if you replied",
       "back_to_thread_disabled": "Do not close replies chain in the thread after your reply",
       "right_menu": "Show thread menu at the right",
