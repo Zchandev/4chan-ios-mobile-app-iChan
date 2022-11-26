@@ -7,7 +7,8 @@ Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk
 Features:
 
 - Minimalistic UI, designed for large screens
-- Low battery consumption
+- Autohide filters, including one tap action to hide meme flags or tripfags
+- Low battery consumption, about 30% less compared to browser
 - Function to save all images in thread
 - Instant video playback (including WebM Support for iOS)
 - Webm to mp4 converter (iOS)
@@ -24,7 +25,7 @@ Features:
 1. Testflight
 
 - Support this project on Patreon: https://www.patreon.com/zchandev
-- Wait for my message with information
+- Read Welcome Note for patrons or wait for my message with information
 
 2. Altstore
 
@@ -32,9 +33,9 @@ Features:
 - Compile this project and get .ipa file
 - Open Altstore app and select the ipa to install
 
-### Install Zchan on Android
+### Install iChan on Android
 
-[https://play.google.com/store/apps/details?id=com.zchandev.zchanapp](https://play.google.com/store/apps/details?id=com.zchandev.zchanapp&referrer=utm_source%3Dgithub)
+[Get on Google Play](https://play.google.com/store/apps/details?id=com.zchandev.zchanapp&referrer=utm_source%3Dgithub)
 
 ## How to compile
 
