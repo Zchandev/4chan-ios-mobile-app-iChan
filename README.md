@@ -1,4 +1,4 @@
-# iChan (iOS) and Zchan (Android)
+# iChan: Mobile Application for iOS and Android (still updating in 2024)
 
 Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk
 
