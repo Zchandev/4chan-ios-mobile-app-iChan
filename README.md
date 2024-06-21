@@ -1,4 +1,4 @@
-# iChan: Mobile Application for iOS and Android (still updating in 2024)
+# iChan: Mobile Application for iOS (still updating in 2024)
 
 Open source cross-platform client for popular imageboards: 4chan.org and 2ch.hk
 
@@ -32,10 +32,6 @@ Features:
 - Download Altstore https://altstore.io and install it in your iPhone or iPad
 - Compile this project and get .ipa file
 - Open Altstore app and select the ipa to install
-
-### Install iChan on Android
-
-APK: https://zchan.app/download/google/iChan.apk
 
 ## How to compile
 
