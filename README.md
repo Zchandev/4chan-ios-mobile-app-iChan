@@ -25,7 +25,7 @@ Features:
 1. Testflight
 
 - Support this project on Patreon: https://www.patreon.com/zchandev
-- Read Welcome Note for patrons or wait for my message with information
+- Read Welcome Note for patrons
 
 2. Altstore
 
@@ -35,7 +35,7 @@ Features:
 
 ### Install iChan on Android
 
-[Get on Google Play](https://play.google.com/store/apps/details?id=com.zchandev.zchanapp&referrer=utm_source%3Dgithub)
+APK: https://zchan.app/download/google/iChan.apk
 
 ## How to compile
 
@@ -50,9 +50,7 @@ Features:
 
 # Get help
 
-If you have a question, want to report a bug or post a suggestion, feel free to join our groups:
-
-- Telegram [en]: https://t.me/ichan_app
+If you have a question, want to report a bug or post a suggestion, please use in-app 'Bug reports and ideas' thread.
 
 # Support this project
 
