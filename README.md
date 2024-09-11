@@ -33,6 +33,11 @@ Features:
 - Compile this project and get .ipa file
 - Open Altstore app and select the ipa to install
 
+### Install iChan on Android
+
+Modern x64 devices: https://zchan.app/download/google/iChan.apk
+Legacy x32 devices: https://zchan.app/download/google/iChan-x32.apk
+
 ## How to compile
 
 1. Install Flutter: https://flutter.dev/docs/get-started/install
