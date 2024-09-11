@@ -35,8 +35,8 @@ Features:
 
 ### Install iChan on Android
 
-Modern x64 devices: https://zchan.app/download/google/iChan.apk
-Legacy x32 devices: https://zchan.app/download/google/iChan-x32.apk
+- Modern x64 devices: https://zchan.app/download/google/iChan.apk
+- Legacy x32 devices: https://zchan.app/download/google/iChan-x32.apk
 
 ## How to compile
 
